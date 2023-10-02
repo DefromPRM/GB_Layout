@@ -916,7 +916,7 @@ path{
         line-height: 45.6px;
         color: #222222;
     }
-    
+
     .banner__subtitle{
         font-size: 20px;
         font-weight: 700;
@@ -1051,8 +1051,10 @@ path{
     }
 
     .form__container{
+        width: 341px;
         padding: 59px 17px 110px;
         gap: 22px;
+        align-content: center;
     }
 
     .form__banner{
