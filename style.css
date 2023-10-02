@@ -153,6 +153,10 @@ button{
     gap: 30px;
 }
 
+.categories__card{
+    cursor: pointer;
+}
+
 .card__img-1{
     width: 360px;
     height: 260px;
@@ -175,6 +179,10 @@ button{
     width: 360px;
     height: 260px;
     background-color: #211616B2;
+}
+
+.bottom__card{
+    cursor: pointer;
 }
 
 .bottom__card_img{
